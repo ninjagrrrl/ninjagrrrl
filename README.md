@@ -1,4 +1,4 @@
-With a background in the humanities, I bring structure, creativity, and strong communication skills to front-end development. I enjoy learning new tools and working in collaborative, cross-functional teams. I'm focused on writing clear, understandable code and growing as a developer.
+With a background in the humanities, I bring structure, creativity, and strong communication skills to front-end development. I enjoy learning new technologies and working in collaborative, cross-functional teams. Currently, I'm building a website for a friend's medical practice using Craft CMS and Next.js. With this project, I want to explore content modeling, templating, and the potential of combining traditional and headless CMS approaches. It's also an opportunity for me to deepen my understanding of production-ready React and the backend capabilities that Next.js enables.
 
 #### Currently Learning
 
